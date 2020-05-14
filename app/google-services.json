@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "418951755989",
+    "firebase_url": "https://fcmtest-b3f77.firebaseio.com",
+    "project_id": "fcmtest-b3f77",
+    "storage_bucket": "fcmtest-b3f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418951755989:android:966c99c7c092c266b70a5c",
+        "android_client_info": {
+          "package_name": "com.roopre.notitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418951755989-bmefem65e7hsrpttvm1amdj6fgct8rii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOE8fCUbWb6pof1v-WqgRiQWGrhs-dcd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418951755989-bmefem65e7hsrpttvm1amdj6fgct8rii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
